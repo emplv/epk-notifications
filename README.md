@@ -3,6 +3,8 @@
 Notifications system for any React project. Easy to initialize and use.
 **Can use** localStorage to save all closed custom made notifications.
 
+Add itself to the DOM, create each notification as a new React component, which unmount itself, when closed.
+
 ## Usage
 
 Initialize, i.e., **Notification.js**
