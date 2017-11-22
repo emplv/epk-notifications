@@ -1,27 +1,23 @@
 {
-  "name": "ep-notifications",
+  "name": "epk-notifications",
   "version": "1.0.0",
-  "description": "Notification system for any React project",
+  "description": "Notification system for any ES6 project",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/plavenieks/ep-notifications.git"
+    "url": "git+https://github.com/plavenieks/epk-notifications.git"
   },
   "keywords": [
     "notifications",
-    "react",
     "standalone",
     "es6"
   ],
   "author": "Emils Plavenieks",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/plavenieks/ep-notifications/issues"
+    "url": "https://github.com/plavenieks/epk-notifications/issues"
   },
-  "homepage": "https://github.com/plavenieks/ep-notifications#readme",
-  "dependencies": {
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4"
-  }
+  "homepage": "https://github.com/plavenieks/epk-notifications#readme",
+  "dependencies": {}
 }
