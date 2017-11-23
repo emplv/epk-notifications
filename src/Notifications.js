@@ -29,7 +29,7 @@ export default class NotificationsSystem {
 
   generateName () {
     let name = Math.random().toString(36).substr(2, 9);
-    return this.activeList[ name ] ? this.generateName() : name;
+    return this.activeNames[ name ] ? this.generateName() : name;
   }
 
   getFromLocalStorage (notificationName) {
